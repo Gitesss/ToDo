@@ -1,0 +1,9 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\bin\Debug\ToDo.exe.config
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.Form1.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\bin\Debug\ToDo.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\bin\Debug\ToDo.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\ToDo\ToDo\obj\Debug\ToDo.pdb
